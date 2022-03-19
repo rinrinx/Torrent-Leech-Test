@@ -2,6 +2,7 @@ import os
 from pyrogram import Client, filters
 from pyrogram.handlers import CallbackQueryHandler, MessageHandler
 
+from tobrot import app
 from tobrot import (
     API_HASH,
     APP_ID,
