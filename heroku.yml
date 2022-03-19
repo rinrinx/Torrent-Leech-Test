@@ -3,5 +3,3 @@ build:
     worker: Dockerfile
 run:
   worker: bash start.sh
-© 2022 GitHub, Inc.
-Terms
